@@ -276,9 +276,9 @@ This project is licensed under the **MIT License** — see the `LICENSE` file fo
 
 **[Your Name]**
 
-* GitHub: [https://github.com/[your-username](https://github.com/iiceekiing)]
-* X (Twitter): [https://x.com/[your-handle](https://x.com/iiceekiing)]
-* LinkedIn: [https://linkedin.com/in/[miracle-amajama](https://linkedin.com/in/iiceekiing)]
+* GitHub: (https://github.com/iiceekiing)
+* X (Twitter): (https://x.com/iiceekiing)
+* LinkedIn: (https://linkedin.com/in/iiceekiing)
 
 
 ---
